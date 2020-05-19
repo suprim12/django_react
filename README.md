@@ -29,15 +29,3 @@
 ## pip install django django-cors-headers djangorestframework
 
 ---
-
-### [CREATE APP:]
-
----
-
-## django-admin core
-
-## pythom manage.py startapp api
-
-## npm i create-react-app
-
-## npx create-react-app app_name
