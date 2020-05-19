@@ -26,7 +26,7 @@
 
 ---
 
-## pip install django django-cors-headers
+## pip install django django-cors-headers djangorestframework
 
 ---
 
