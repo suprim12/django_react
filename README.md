@@ -8,11 +8,7 @@
 
 ## --venev = Environment
 
----
-
 ### TO RUN
-
----
 
 ### [Make Virtual Environment :]
 
