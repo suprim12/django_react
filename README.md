@@ -25,3 +25,13 @@
 ## pip install django django-cors-headers djangorestframework
 
 ---
+
+### [FOR FRONTEND GO TO FOLDER "drapp"]
+
+---
+
+## npm install
+
+## npm run dev
+
+---
